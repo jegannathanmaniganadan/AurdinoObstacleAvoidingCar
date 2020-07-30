@@ -2,9 +2,11 @@
 
 A mini rover which can detect and avoid any obstacle using the ultrosonic sensor which sits on top of a servo motor. 
 
+![output](https://lh3.googleusercontent.com/pw/ACtC-3c3C0kW0H2E_PKvKNevR4AVeJqnf3NxOqwspM69sPE5tgZW1W7tZiDU49ubpB-yvRKahRvVDF8gQSjCQGEDrbM5HYXuHTB-Ko50Lnp01SsC4JrWyZH1wi-roFGEO4NOGy964z7Ri4ejEhPUEkTaA4K8-g=w1186-h889-no?authuser=0)
+
 ### Desclaimer 
 
-*There is nothing new in this repository. Most of the work is copied from someone else. Its just a work of stictching everything together. This is mostly for my time pass. Look out for the future plan section about what I am going to do with this.* 
+*There is nothing new in this repository. Most of the work is copied from someone else. Its just a work of stictching everything together* 
 
 ## Components
 
@@ -29,11 +31,10 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
  - Drilling tool, to puch holes in the sheet - https://amzn.to/3jXmEYb this would do. 
  - Aurdio SDE which comes in all flavour including Windows app - https://bit.ly/3k2wTun
 
-## Build images,
+## Build images
 
- - Cut the acrylic sheet in 14 * 9 cm
- - Paste the wheels with attached (use soldering iron)
-    ![Bottom](IMG_6587.jpg])
+* Cut acrylic sheet into 14 * 9 cm (use Hacksaw)
+* Refer images in the build folder
 
 ## Upload the code
 
@@ -43,5 +44,11 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
  - Click Upload (icon ->)
  - Adding the relevent libraries are on the code description.
 
+## Final output 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GMyHdt2BrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Next ?
+
+I am going to make the turns realistic so that it does not have to stop - reverse - look - procced. 
 
