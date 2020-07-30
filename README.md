@@ -33,14 +33,8 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ## Build images
 
-<<<<<<< HEAD
 * Cut acrylic sheet into 14 * 9 cm (use Hacksaw)
 * Refer images in the build folder
-=======
- - Cut the acrylic sheet in 14 * 9 cm
- - Paste the wheels with attached (use soldering iron)
-    [Bottom](https://photos.app.goo.gl/bNJEDFPmXqAPM3rS9)
->>>>>>> 8f0bdd779c60a51eb848e432020e0b2dc487fcf5
 
 ## Upload the code
 
@@ -52,9 +46,9 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ## Final output 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1GMyHdt2BrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Mini Rover](https://lh3.googleusercontent.com/pw/ACtC-3c3C0kW0H2E_PKvKNevR4AVeJqnf3NxOqwspM69sPE5tgZW1W7tZiDU49ubpB-yvRKahRvVDF8gQSjCQGEDrbM5HYXuHTB-Ko50Lnp01SsC4JrWyZH1wi-roFGEO4NOGy964z7Ri4ejEhPUEkTaA4K8-g=w1186-h889-no?authuser=0)](https://www.youtube.com/watch?v=1GMyHdt2BrA "Mini Rover")
 
 ## Next ?
 
-I am going to make the turns realistic so that it does not have to stop - reverse - look - procced. 
+Make the turns realistic so that it does not have to stop - reverse - look - procced. 
 
