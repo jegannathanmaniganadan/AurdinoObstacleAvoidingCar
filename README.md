@@ -33,7 +33,7 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
  - Cut the acrylic sheet in 14 * 9 cm
  - Paste the wheels with attached (use soldering iron)
-    ![Bottom](IMG_6587.jpg])
+    [Bottom](https://photos.app.goo.gl/bNJEDFPmXqAPM3rS9)
 
 ## Upload the code
 
