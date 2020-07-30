@@ -48,7 +48,7 @@ void loop() {
  int distanceL =  0;
  delay(40);
  
- if(distance<=15)
+ if(distance<=20)
  {
   moveStop();
   delay(100);
