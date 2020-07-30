@@ -33,6 +33,7 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ## Build images
 
+<<<<<<< HEAD
 * Cut acrylic sheet into 14 * 9 cm (use Hacksaw)
 * Refer images in the build folder
 
