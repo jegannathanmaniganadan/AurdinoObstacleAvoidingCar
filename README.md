@@ -4,7 +4,7 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ![output](https://lh3.googleusercontent.com/pw/ACtC-3c3C0kW0H2E_PKvKNevR4AVeJqnf3NxOqwspM69sPE5tgZW1W7tZiDU49ubpB-yvRKahRvVDF8gQSjCQGEDrbM5HYXuHTB-Ko50Lnp01SsC4JrWyZH1wi-roFGEO4NOGy964z7Ri4ejEhPUEkTaA4K8-g=w1186-h889-no?authuser=0)
 
-### Desclaimer 
+### Disclaimer 
 
 *There is nothing new in this repository. Most of the work is copied from someone else. Its just a work of stictching everything together* 
 
