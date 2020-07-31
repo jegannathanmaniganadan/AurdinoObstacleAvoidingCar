@@ -46,6 +46,8 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ## Final output 
 
+(click to see the video)
+
 [![Mini Rover](https://lh3.googleusercontent.com/pw/ACtC-3c3C0kW0H2E_PKvKNevR4AVeJqnf3NxOqwspM69sPE5tgZW1W7tZiDU49ubpB-yvRKahRvVDF8gQSjCQGEDrbM5HYXuHTB-Ko50Lnp01SsC4JrWyZH1wi-roFGEO4NOGy964z7Ri4ejEhPUEkTaA4K8-g=w1186-h889-no?authuser=0)](https://www.youtube.com/watch?v=1GMyHdt2BrA "Mini Rover")
 
 ## Next ?
