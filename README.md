@@ -1,4 +1,4 @@
-## Obstacle Avoiding Rover
+## Obstacle Avoiding Rover (code name *Nala*)
 
 A mini rover which can detect and avoid any obstacle using the ultrosonic sensor which sits on top of a servo motor. 
 
