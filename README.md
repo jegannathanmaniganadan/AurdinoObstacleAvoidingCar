@@ -31,10 +31,10 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
  - Drilling tool, to puch holes in the sheet - https://amzn.to/3jXmEYb this would do. 
  - Aurdio SDE which comes in all flavour including Windows app - https://bit.ly/3k2wTun
 
-## Build images
+## Build
 
 * Cut acrylic sheet into 14 * 9 cm (use Hacksaw)
-* Refer images in the build folder
+* Refer images in the build folder. You will find a lot of help on the interner for this. 
 
 ## Upload the code
 
