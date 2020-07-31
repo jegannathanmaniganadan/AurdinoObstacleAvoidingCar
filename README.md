@@ -15,7 +15,7 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
  - TT Gear Motor and wheels set - https://amzn.to/31WSD0Z (Buy some extra pair. Its very likely that you may break for the first time, becuase I did)
  - Servo Motor - https://amzn.to/2IAigNH
  - Ultrasonic Sensor - https://amzn.to/33fwrQa
- - 18650 Li-on Battery (2x) - https://bit.ly/2CZabQ7
+ - 18650 Li-on Battery (2x) - https://amzn.to/3hQJwXk
  - 18650 Battery Holder - https://amzn.to/33iY4b3
  - Male and Female Jumper wire - https://amzn.to/2MmRjOE
  - Acrylic Sheet - https://amzn.to/39Fi0ZY
