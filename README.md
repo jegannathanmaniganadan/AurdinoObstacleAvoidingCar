@@ -41,6 +41,10 @@ A mini rover which can detect and avoid any obstacle using the ultrosonic sensor
 
 ![With sensor attached](https://lh3.googleusercontent.com/Kw0C3jzl6YK7ZYk-TNzF-zZrUgXfKCVlGh-eYCA-e9LqlTeUoFS3WKSUOiyU-rw555IdKRjdRVMDRVbiYqNes81q_IPMjj0XX3uM7g6cjEuKDJWu-7zvLFU4b0eTNx85wDFbBfFiApVhH-03dU7FAEhrw-rhZa1qreXJ-3lSkvN5qSR9HOjeRWX6EDWGqxA6iSOvFVINJGSm2JOPKncqLFXNG-g91P1QJcaMDx03b-n224JTDB0eKFnYFDl5h9HSqEuUdMIq1fxr_iYIvH5dAQdo563tNHREUB5IJSf9Y-G5tY-dAEZfJnBLBBwNWZfgT3MuA6s7xg8JOqmXqydlbUrzbFXlB1kkM0ZJKey3NXw32vRhweVxxDgaH0QCLterkrsWqEwctvjRnAj3UaMi1vw6KgZEQ2WD79NYFYoLViivXF5cj7Xkw0-9GQIn9MfdgezpVnxiuIKF0wJUYMFDRoHwibv_ZGnleB7si5QETLytnfY-dYqYmlB1owh68ZNFlXVUFbbrqsDK6Rd6A2Y9x9xTAzCaIFhRReBDclZgUGybSQCd_8o-LhSPIqAGKuaAzpZpWSHCGksQbnA33mdJVyHMCFTJ2ynn8-jiUH6S271CYRgX3GXdO58Ip1vKLp9bkVVfR8ANTh2w6JOfrwSu2ia9x64Nc8l_WQH3GioyVivOInBJJXh5vejUFuWCVg=w703-h937-no?authuser=0)
 
+## How Ultrasonic Sensor work ? 
+
+![Ultrasonic Sensor](https://lastminuteengineers.com/wp-content/uploads/arduino/HC-SR04-Ultrasonic-Sensor-Working-Echo-reflected-from-Obstacle.gif)
+
 ## Upload the code
 
  - Connect the USB cable to the interface on the Aurdino board. 
